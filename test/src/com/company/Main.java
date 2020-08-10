@@ -7,7 +7,7 @@ import static com.company.tst.IterateAndSum;
 public class Main {
 
     public static void main(String[] args) {
-    	int arr[] = { 1,2,3, 4 };
+    	int arr[] = {1,2,3,5};
 		IterateAndSum(arr);
 
 
