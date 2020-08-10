@@ -3,7 +3,8 @@ package com.revature.tier1;
 public class SumOverArray {
 	int arr[] = {1,2,3,5};
 	public static int IterateAndSum(int[] arr) {
-		int i;
+		if (arr == null) {return 0;}
+		int i=0;
 		int sum = 0;
 		System.out.println("length is" +arr.length);
 		for (i=0; i < arr.length; i++) {
