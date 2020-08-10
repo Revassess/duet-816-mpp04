@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2b6c0303-739a-4738-8416-d0fbfc9a8e48" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/revature/tier1/SumOverArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/revature/tier1/SumOverArray.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="C:\Program Files\JetBrains\IntelliJ IDEA 2020.2\plugins\maven\lib\maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1fv0mW6ElNVJZpnyMF4ytS6nKGW" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="RunManager" selected="JUnit.All in Revassess">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="All in Revassess" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Revassess" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Answer3Tests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Revassess" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.revature.tier1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.revature.tier1" />
+      <option name="MAIN_CLASS_NAME" value="com.revature.tier1.Answer3Tests" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Answer3Tests.test3" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Revassess" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.revature.tier1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.revature.tier1" />
+      <option name="MAIN_CLASS_NAME" value="com.revature.tier1.Answer3Tests" />
+      <option name="METHOD_NAME" value="test3" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tier1Tests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Revassess" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.revature.tier1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.revature.tier1" />
+      <option name="MAIN_CLASS_NAME" value="com.revature.tier1.Tier1Tests" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.All in Revassess" />
+        <item itemvalue="JUnit.Answer3Tests" />
+        <item itemvalue="JUnit.Answer3Tests.test3" />
+        <item itemvalue="JUnit.Tier1Tests" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2b6c0303-739a-4738-8416-d0fbfc9a8e48" name="Default Changelist" comment="" />
+      <created>1597083419855</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1597083419855</updated>
+      <workItem from="1597083420895" duration="7702000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="549" y="156" key="FileChooserDialogImpl" timestamp="1597084242400">
+      <screen x="0" y="0" width="1536" height="802" />
+    </state>
+    <state x="549" y="156" key="FileChooserDialogImpl/0.0.1536.802/0.-1080.1920.1050@0.0.1536.802" timestamp="1597084242400" />
+    <state width="1228" height="226" key="GridCell.Tab.0.bottom" timestamp="1597091157807">
+      <screen x="0" y="-1080" width="1920" height="1050" />
+    </state>
+    <state width="1228" height="226" key="GridCell.Tab.0.bottom/0.0.1536.802/0.-1080.1920.1050@0.-1080.1920.1050" timestamp="1597091157807" />
+    <state width="1493" height="226" key="GridCell.Tab.0.bottom/0.0.1536.802/0.-1080.1920.1050@0.0.1536.802" timestamp="1597089133542" />
+    <state width="1228" height="226" key="GridCell.Tab.0.center" timestamp="1597091157806">
+      <screen x="0" y="-1080" width="1920" height="1050" />
+    </state>
+    <state width="1228" height="226" key="GridCell.Tab.0.center/0.0.1536.802/0.-1080.1920.1050@0.-1080.1920.1050" timestamp="1597091157806" />
+    <state width="1493" height="226" key="GridCell.Tab.0.center/0.0.1536.802/0.-1080.1920.1050@0.0.1536.802" timestamp="1597089133542" />
+    <state width="1228" height="226" key="GridCell.Tab.0.left" timestamp="1597091157806">
+      <screen x="0" y="-1080" width="1920" height="1050" />
+    </state>
+    <state width="1228" height="226" key="GridCell.Tab.0.left/0.0.1536.802/0.-1080.1920.1050@0.-1080.1920.1050" timestamp="1597091157806" />
+    <state width="1493" height="226" key="GridCell.Tab.0.left/0.0.1536.802/0.-1080.1920.1050@0.0.1536.802" timestamp="1597089133542" />
+    <state width="1228" height="226" key="GridCell.Tab.0.right" timestamp="1597091157806">
+      <screen x="0" y="-1080" width="1920" height="1050" />
+    </state>
+    <state width="1228" height="226" key="GridCell.Tab.0.right/0.0.1536.802/0.-1080.1920.1050@0.-1080.1920.1050" timestamp="1597091157806" />
+    <state width="1493" height="226" key="GridCell.Tab.0.right/0.0.1536.802/0.-1080.1920.1050@0.0.1536.802" timestamp="1597089133542" />
+    <state x="209" y="22" key="new project wizard" timestamp="1597083687945">
+      <screen x="0" y="0" width="1536" height="802" />
+    </state>
+    <state x="209" y="22" key="new project wizard/0.0.1536.802/0.-1080.1920.1050@0.0.1536.802" timestamp="1597083687945" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Revassess$All_in_Revassess.ic" NAME="All in Revassess Coverage Results" MODIFIED="1597085228797" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/Revassess$Answer3Tests.ic" NAME="Answer3Tests Coverage Results" MODIFIED="1597086620756" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.revature.tier1.*</FILTER>
+    </SUITE>
+  </component>
+</project>
